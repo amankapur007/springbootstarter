@@ -25,3 +25,6 @@ run ./spring run app.groovy
 STS - https://spring.io/tools/sts/all
 
 New ->Spring boot project 
+
+#Spring Common Application Properties
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
